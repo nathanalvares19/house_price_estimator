@@ -1,0 +1,55 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ===== Virtual Environments =====
+venv/
+.env/
+.venv/
+env/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Data files =====
+data/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# ===== Model artifacts =====
+models/
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# ===== Logs & outputs =====
+logs/
+*.log
+outputs/
+results/
+figures/
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== Testing / Coverage =====
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===== Packaging =====
+build/
+dist/
+*.egg-info/
+
+# ===== Misc =====
+*.tmp
+*.swp
