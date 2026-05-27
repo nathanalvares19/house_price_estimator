@@ -1,6 +1,6 @@
-# House Price Estimator using Linear Regression
+# House Price Estimator 
 
-Predicts house prices based on various parameters like floor area, etc.
+Predicts house prices based on various parameters like floor area, etc., (in California)
 
 # Setup Instructions
 
