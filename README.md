@@ -24,5 +24,5 @@ Predicts house prices based on various parameters like floor area, etc., (in Cal
 
 # Resources
 
-[YouTube Tutorial](https://www.youtube.com/watch?v=Wqmtf9SA_kk)
-[House prices dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=Wqmtf9SA_kk)
+- [House prices dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data)
